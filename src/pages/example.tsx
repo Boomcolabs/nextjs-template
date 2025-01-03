@@ -1,5 +1,5 @@
 import { useDisclosure } from "@mantine/hooks";
-import { Modal, Button, Group, Box, TextInput, Checkbox } from "@mantine/core";
+import { Modal, Button, Box, TextInput, Checkbox, Center } from "@mantine/core";
 import { useForm } from "@mantine/form";
 import { Inter } from "next/font/google";
 
@@ -40,20 +40,20 @@ function Mantine() {
               {...form.getInputProps("termsOfService", { type: "checkbox" })}
             />
 
-            <Group position="right" mt="md">
+            <Center mt="md">
               <Button type="submit" className="bg-blue-500">
                 Submit
               </Button>
-            </Group>
+            </Center>
           </form>
         </Box>
       </Modal>
 
-      <Group position="center">
-        <Button color="violet" className="bg-blue-500 mt-5" onClick={open}>
+      <Center>
+        <Button color="primary" className="bg-blue-500 mt-5" onClick={open}>
           Open modal
         </Button>
-      </Group>
+      </Center>
     </>
   );
 }

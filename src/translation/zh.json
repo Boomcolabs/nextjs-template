@@ -1,0 +1,616 @@
+{
+  "common": {
+    "active": "激活",
+    "address": "地址",
+    "all": "所有",
+    "annoucement": "通知",
+    "back": "返回",
+    "backToHome": "返回主页",
+    "cancel": "取消",
+    "changePassword": "修改密码",
+    "close": "关闭",
+    "community": "社区",
+    "contactSupport": "联系客服",
+    "continue": "继续",
+    "createPassword": "创建密码",
+    "delete": "删除",
+    "edit": "编辑",
+    "email": "电子邮件",
+    "email-address": "电子邮件",
+    "end-date": "结束日期",
+    "error": "错误",
+    "event": "事件",
+    "female": "女",
+    "filter": "筛选",
+    "forum": "论坛",
+    "fullname": "姓名",
+    "gender": "性别",
+    "home": "首页",
+    "inactive": "非激活",
+    "jobNotFoundSubtitle": "目前此类别没有相关的招聘信息",
+    "jobNotFoundTitle": "对不起，没有相关的招聘信息",
+    "jobsAvailable": "个职位空缺",
+    "language": "语言",
+    "location": "位置",
+    "logout": "注销",
+    "male": "男",
+    "nationality": "国籍",
+    "next": "下一步",
+    "notFound": "没有找到",
+    "notice": "公告",
+    "notification": "通知",
+    "other": "其他",
+    "password": "密码",
+    "phone-number": "电话号码",
+    "post": "发布",
+    "price": "价格",
+    "profile": "我的",
+    "real-estate": "房地产",
+    "refresh": "刷新",
+    "reset": "重置",
+    "results": "结果",
+    "save": "保存",
+    "search": "搜索",
+    "select": "选择",
+    "selectLanguage": "选择语言",
+    "selectTopic": "选择主题",
+    "selectYourLanguage": "选择您的语言开始",
+    "settings": "设置",
+    "shareContact": "分享联系方式",
+    "skip": "跳过",
+    "start-date": "开始日期",
+    "submit": "提交",
+    "submitted": "已提交",
+    "today": "今天",
+    "updated": "已更新",
+    "verify": "验证",
+    "view-detail": "查看详情",
+    "visa-status": "签证状态"
+  },
+  "industryList": {
+    "A": "农业",
+    "B": "采矿",
+    "C": "制造业",
+    "D": "能源供应",
+    "E": "水资源与废物管理",
+    "F": "建筑",
+    "G": "批发零售",
+    "H": "运输仓储",
+    "I": "住宿餐饮",
+    "J": "信息通信",
+    "K": "金融保险",
+    "L": "房地产",
+    "M": "科学技术",
+    "N": "商业服务",
+    "O": "公共行政",
+    "P": "教育",
+    "Q": "卫生福利",
+    "R": "艺术娱乐",
+    "S": "个人服务",
+    "T": "家庭活动",
+    "U": "国际机构"
+  },
+  "no-data": {
+    "no-info": "没有信息。您可以随时更新",
+    "your-country": "您的国家",
+    "your-name": "您的姓名"
+  },
+  "screens": {
+    "CVUpload": {
+      "text": {
+        "CV": "简历",
+        "CVNote": "最大文件大小为2MB。",
+        "CVPlaceholder": "上传PDF格式的简历",
+        "agreeContactSharing": "我同意分享我的联系方式",
+        "portfolio": "作品集（可选）",
+        "portfolioPlaceholder": "网址",
+        "yourCV": "您的简历"
+      },
+      "title": "上传您的简历进行分析并接收职位推荐。"
+    },
+    "aboutCompany": {
+      "about": "关于",
+      "recentJobs": "最近职位",
+      "title": "关于公司"
+    },
+    "applicationDetail": {
+      "text": {
+        "matchedApplicants": "AI推荐申请人",
+        "noApplicants": "还没有申请人",
+        "noApplicantsSubtitle": "请继续关注或分享以吸引更多候选人！",
+        "recentApplied": "最近申请"
+      },
+      "title": "申请详情"
+    },
+    "appliedCard": {
+      "seeResume": "查看简历",
+      "viewProfile": "查看个人资料"
+    },
+    "applyJob": {
+      "text": {
+        "aboutTheCompany": "关于公司",
+        "apply": "申请",
+        "applyNow": "立即申请",
+        "applyResume": "申请简历",
+        "benefits": "福利",
+        "experience": "经验",
+        "jobDescription": "职位描述",
+        "level": "等级",
+        "officeAddress": "公司地址",
+        "requirements": "要求",
+        "responsibilities": "职责",
+        "selectAResume": "选择简历",
+        "selectAnExistingResume": "选择现有简历",
+        "similarJobsForYou": "为您推荐类似职位",
+        "skillsRequired": "所需技能",
+        "successful": "申请成功",
+        "successfulText": "您已成功申请该职位",
+        "uploadAResume": "上传简历",
+        "uploadYourResume": "上传您的简历",
+        "vacancy": "空缺",
+        "viewAppliedJob": "查看已申请职位",
+        "viewMoreJobs": "查看更多该公司职位"
+      },
+      "title": "申请职位"
+    },
+    "companyInfo": {
+      "error": {
+        "businessRegNo": "商业注册号码为必填项",
+        "businessRegPhoto": "商业注册照片为必填项",
+        "companyName": "公司名称为必填项",
+        "email": "邮箱为必填项",
+        "email-invalid": "无效的邮箱地址",
+        "industry": "行业为必填项",
+        "location": "位置为必填项",
+        "phoneNumber": "联系电话为必填项"
+      },
+      "text": {
+        "addPhoto": "添加照片",
+        "businessRegNo": "商业注册号码",
+        "businessRegPhoto": "商业注册照片",
+        "companyDescription": "公司描述",
+        "companyDescription-placeholder": "公司详情",
+        "companyName": "公司名称",
+        "companyName-placeholder": "您的公司名称",
+        "companySize": "公司规模",
+        "companyWebsite": "公司网址",
+        "contactEmail": "联系方式",
+        "industry": "行业",
+        "location": "位置",
+        "location-placeholder": "公司所在地",
+        "phoneNumber": "联系电话"
+      },
+      "title": "公司信息"
+    },
+    "createJob": {
+      "error": {
+        "appDeadline": "申请截止日期为必填项",
+        "benefits": "福利为必填项",
+        "careerLevel": "职业层级为必填项",
+        "date": "日期必须为YYYY-MM-DD格式",
+        "employmentType": "雇佣类型为必填项",
+        "industry": "行业为必填项",
+        "jobDescription": "职位描述为必填项",
+        "jobLocation": "职位地点为必填项",
+        "jobTitle": "职位名称为必填项",
+        "numOfRecruits": "招聘人数为必填项",
+        "requirements": "要求为必填项",
+        "responsibility": "职责为必填项",
+        "salary": "薪资为必填项",
+        "skillsCommasBetween": "技能之间必须用逗号分隔",
+        "skillsRequired": "所需技能为必填项",
+        "workArrangement": "工作安排为必填项",
+        "yoE": "工作经验为必填项"
+      },
+      "text": {
+        "appDeadline": "申请截止日期",
+        "appDeadline-placeholder": "YYYY-MM-DD",
+        "benefits": "福利",
+        "benefits-placeholder": "福利",
+        "careerLevel": "职业层级",
+        "careerLevel-placeholder": "职业层级",
+        "employmentType": "雇佣类型",
+        "employmentType-placeholder": "雇佣类型",
+        "goToDashboard": "前往仪表盘",
+        "industry": "行业",
+        "industry-placeholder": "行业",
+        "jobDescription": "职位描述",
+        "jobDescription-placeholder": "职位描述",
+        "jobDetails": "职位详情",
+        "jobFailed": "职位发布失败",
+        "jobFailed-desc": "请确保您的网络连接正常稳定，然后点击“重试”",
+        "jobLocation": "职位地点",
+        "jobLocation-placeholder": "公司所在地",
+        "jobPosted": "职位发布",
+        "jobPosted-desc": "现在您可以查看所有申请者的简历，并邀请他们进入下一步",
+        "jobTitle": "职位名称",
+        "numOfRecruits": "招聘人数",
+        "requirements": "要求",
+        "requirements-placeholder": "要求",
+        "responsibility": "职责",
+        "responsibility-placeholder": "职责",
+        "salary": "薪资",
+        "skillsRequired": "所需技能",
+        "skillsRequired-placeholder": "所需技能",
+        "tryAgain": "重试",
+        "workArrangement": "工作安排",
+        "workArrangement-placeholder": "工作安排",
+        "yoE": "工作经验"
+      },
+      "title": "创建职位"
+    },
+    "drawer": {
+      "title": "账户设置"
+    },
+    "employee-profile": {
+      "applied": "已申请",
+      "education": "教育",
+      "experience": "经验",
+      "job": "职位",
+      "job-info": {
+        "applied": {
+          "title": "已申请职位"
+        },
+        "saved": {
+          "title": "已保存职位"
+        }
+      },
+      "language": "语言",
+      "modal-change-logo": {
+        "addLogo": "添加照片",
+        "changeLogo": "更换照片"
+      },
+      "modal-education": {
+        "degree": "学位",
+        "editEducation": "编辑教育经历",
+        "end-date": "结束年份",
+        "error": {
+          "degree": "学位是必填项",
+          "end-date": "结束年份是必填项",
+          "endIsAfter": "结束年份必须在开始年份之后",
+          "must4": "必须是4位数字",
+          "start-date": "开始年份是必填项",
+          "study-field": "学习领域是必填项",
+          "university": "大学是必填项"
+        },
+        "start-date": "开始年份",
+        "study-field": "学习领域",
+        "title": "添加教育经历",
+        "university": "大学"
+      },
+      "modal-employee-info": {
+        "title": "编辑信息"
+      },
+      "modal-experience": {
+        "checkbox": "我仍在此职位工作",
+        "company-address": "公司地址",
+        "company-name": "公司名称",
+        "editExperience": "编辑经验",
+        "error": {
+          "company-address": "公司地址是必填项",
+          "company-name": "公司名称是必填项",
+          "end-date": "结束日期是必填项",
+          "endIsAfter": "结束日期必须在开始日期之后",
+          "job-position": "职位是必填项",
+          "start-date": "开始日期是必填项"
+        },
+        "job-position": "职位",
+        "title": "添加经验"
+      },
+      "modal-language": {
+        "title": "添加语言"
+      },
+      "modal-resume": {
+        "title": "简历"
+      },
+      "modal-skill": {
+        "title": "添加技能"
+      },
+      "saved": "已保存",
+      "skill": "技能",
+      "title": "我的"
+    },
+    "employeeHome": {
+      "text": {
+        "mostRecent": "最近",
+        "recommendation": "AI匹配职位",
+        "specialization": "专业性"
+      }
+    },
+    "employerProfile": {
+      "text": {
+        "addLogo": "添加公司标识",
+        "allVacancies": "所有职位",
+        "businessRegNo": "商业注册号码",
+        "businessRegPhoto": "商业注册照片",
+        "companyDescription": "公司描述",
+        "companyName": "公司名称",
+        "companySize": "公司规模",
+        "companyWebsite": "公司网站",
+        "contactEmail": "联系方式",
+        "editInformation": "编辑信息",
+        "industry": "行业",
+        "location": "位置",
+        "phoneNumber": "联系电话"
+      },
+      "title": "公司资料"
+    },
+    "forgotPassword": {
+      "error": {
+        "emailRequired": "电子邮件是必填项",
+        "invalidEmail": "无效的电子邮件"
+      },
+      "text": {
+        "emailAddress": "电子邮件地址",
+        "emailPlaceholder": "请输入您的电子邮件地址",
+        "here": "这里",
+        "introduction": "请在下方输入您的电子邮件地址，我们将向您发送重置密码的链接。",
+        "login": "登录",
+        "rememberedPassword": "记起密码了？",
+        "sendCode": "发送验证码"
+      },
+      "title": "重置密码"
+    },
+    "forum": {
+      "commentInput-placeholder": "嗯，我觉得...",
+      "createPost": "创建帖子",
+      "editCmt": "编辑评论",
+      "editPost": "编辑帖子",
+      "greeting": "早上好！",
+      "maxLength150": "评论不能超过150个字符。",
+      "noPost": "成为第一个创建帖子的人！",
+      "noPost-desc": "目前还没有帖子。随时分享您的想法，成为第一个在这里创建帖子的人！",
+      "replies": "回复",
+      "result": "",
+      "search-placeholder": "使用#标签搜索任何内容...",
+      "seeTrans": "查看翻译",
+      "topic-list": {
+        "all": "所有主题",
+        "career": "职业",
+        "forum": "论坛",
+        "real-estate": "房地产"
+      },
+      "viewOrigin": "查看原文",
+      "viewPost": "查看帖子",
+      "what-new": "有什么新鲜事？"
+    },
+    "getCode": {
+      "error": {
+        "cordRequired": "验证码是必填项",
+        "invalidCode": "无效的验证码"
+      },
+      "text": {
+        "dontReceiveCode": "没有收到验证码？",
+        "introduction": "请输入发送到您电子邮件地址的4位数验证码。",
+        "it": "验证码",
+        "resend": "重新发送",
+        "verify": "验证"
+      },
+      "title": "获取验证码"
+    },
+    "jobCard": {
+      "daysAgo": "天前",
+      "viewDetails": "查看详情"
+    },
+    "jobPreference": {
+      "text": {
+        "careerLevel": "职业层级",
+        "careerLevelPlaceholder": "选择职业层级",
+        "industry": "行业",
+        "industryPlaceholder": "选择行业",
+        "jobType": "职位类型",
+        "jobTypePlaceholder": "选择职位类型",
+        "preferRegion": "首选地区"
+      },
+      "title": "求职偏好"
+    },
+    "languageProfile": {
+      "text": {
+        "language": "语言",
+        "languagePlaceholder": "选择语言"
+      },
+      "title": "语言资料"
+    },
+    "login": {
+      "error": {
+        "emailRequired": "电子邮件是必填项",
+        "invalidEmail": "无效的电子邮件",
+        "invalidPassword": "密码必须至少8个字符",
+        "passwordRequired": "密码是必填项"
+      },
+      "text": {
+        "emailPlaceholder": "输入您的电子邮件",
+        "forgotPassword": "忘记密码？",
+        "introduction": "登录以使用外国人招聘平台.",
+        "login": "登录",
+        "loginWithGoogle": "使用谷歌登录",
+        "noAccount": " 没有账户？",
+        "passwordPlaceholder": "输入您的密码",
+        "signup": "注册"
+      },
+      "title": "欢迎来到Blueship"
+    },
+    "newPassword": {
+      "error": {
+        "invalidPassword": "无效的密码",
+        "passwordRequired": "密码是必填项"
+      },
+      "text": {
+        "confirmNewPassword": "确认新密码",
+        "confirmNewPlaceholder": "请再次输入您的新密码",
+        "here": "这里",
+        "introduction": "为您的Blueship账户输入新密码。",
+        "login": "登录",
+        "newPassword": "新密码",
+        "newPasswordPlaceholder": "请输入您的新密码",
+        "passwordCharacters": "密码必须至少8个字符",
+        "rememberedPassword": "记起密码了？",
+        "resetPassword": "重置密码"
+      },
+      "title": "创建新密码"
+    },
+    "noticeBoard": {
+      "noAnnouce": "没有新公告",
+      "noAnnouce-desc": "请稍后回来查看任何更新或重要新闻！",
+      "noEvent": "没有即将到来的活动",
+      "noEvent-desc": "您目前没有活动。请稍后再检查更新！",
+      "noNoti": "没有通知",
+      "noNoti-desc": "您目前没有任何通知。请稍后再来查看！",
+      "title": "公告板"
+    },
+    "onboarding": {
+      "selectYourRole": "选择您的角色"
+    },
+    "password": {
+      "confirmPassword": "确认密码",
+      "newPassword": "新密码",
+      "oldPassword": "旧密码"
+    },
+    "personalInformation": {
+      "text": {
+        "address": "地址",
+        "female": "女",
+        "fullName": "全名",
+        "fullNamePlaceholder": "请输入您的全名",
+        "gender": "性别",
+        "male": "男",
+        "nationality": "国籍",
+        "nationalityPlaceholder": "请输入您的国籍",
+        "phoneNumber": "电话号码",
+        "phoneNumberPlaceholder": "请输入您的电话号码",
+        "yearOfBirth": "出生年份"
+      },
+      "title": "个人信息"
+    },
+    "postCard": {
+      "optionDelete": "删除",
+      "optionEdit": "编辑"
+    },
+    "professionalProfile": {
+      "text": {
+        "professionalTitle": "职业头衔",
+        "professionalTitlePlaceholder": "例如：UI/UX设计师，项目经理",
+        "profileSummary": "个人简介",
+        "profileSummaryPlaceholder": "写一个简短的自我介绍",
+        "visaStatus": "签证状态",
+        "workExperience": "工作经验",
+        "workExperiencePlaceholder": "例如：2年"
+      },
+      "title": "专业资料"
+    },
+    "real-estate": {
+      "description": "描述",
+      "error": {
+        "description": "描述是必填的",
+        "location": "位置是必填的",
+        "photo": "照片是必填的",
+        "price": "价格是必填的",
+        "title": "标题是必填的"
+      },
+      "location": "位置",
+      "notFound": "没有找到帖子",
+      "notFound-desc": "我们找不到任何符合您搜索的内容。",
+      "photos": "照片",
+      "price": "价格",
+      "searchPost": "搜索帖子",
+      "title": "帖子标题",
+      "topic-list": {
+        "all": "所有主题",
+        "lease": "租约",
+        "rent": "租赁"
+      }
+    },
+    "registrationSuccess": {
+      "text": {
+        "continue": "继续",
+        "subTitle": "通过完善您的个人资料解锁职位，让公司主动联系您！"
+      },
+      "title": "您的注册成功"
+    },
+    "resetPassword": {
+      "text": {
+        "here": "这里",
+        "introduction": "您的密码已成功重置。现在可以使用新密码登录。",
+        "login": "登录"
+      },
+      "title": "密码重置成功"
+    },
+    "roleSelect": {
+      "text": {
+        "employee": "员工",
+        "employeeSubtitle": "我目前正在找工作.",
+        "employer": "雇主",
+        "employerSubtitle": "我正在招聘人才。",
+        "next": "下一步"
+      },
+      "title": "你是谁?"
+    },
+    "search": {
+      "clear": "清除",
+      "filter": {
+        "experienceLevel": "经验等级",
+        "industry": "行业",
+        "jobType": "职位类型",
+        "postDate": "发布时间",
+        "salaryRange": "薪资范围"
+      },
+      "recentSearch": "最近搜索",
+      "trySearchingFor": "试试搜索"
+    },
+    "signup": {
+      "error": {
+        "confirmPasswordRequired": "确认密码是必填项",
+        "emailRequired": "电子邮件是必填项",
+        "invalidEmail": "无效的电子邮件",
+        "minLengthPassword": "密码必须至少8个字符",
+        "oneLowerCase": "密码必须包含至少一个小写字母",
+        "oneNumber": "密码必须包含至少一个数字",
+        "oneSpecialCharacter": "密码必须包含至少一个特殊字符",
+        "oneUpperCase": "密码必须包含至少一个大写字母",
+        "passwordNotMatch": "密码不匹配",
+        "passwordRequired": "密码是必填项",
+        "termsRequired": "您必须同意条款和条件"
+      },
+      "text": {
+        "agreeToTerms": "我已阅读并同意",
+        "alreadyHaveAnAccount": "已经有账户？",
+        "and": "和",
+        "confirmPassword": "确认密码",
+        "confirmPasswordPlaceholder": "重新输入您的密码",
+        "continue": "继续",
+        "createPasswordSubtext": "为您的邮箱账户输入新密码",
+        "createPasswordTitle": "创建密码",
+        "getCodeSubtext": "验证码已发送到您的电子邮件。",
+        "getCodeTitle": "注册确认",
+        "introduction": "加入Blueship，使用外国人招聘平台。",
+        "login": "登录",
+        "privacyPolicy": "隐私政策",
+        "registrationSuccessTitle": "注册成功",
+        "signup": "注册",
+        "signupWithGoogle": "使用Google注册",
+        "termsAndConditions": "条款和条件",
+        "unlockedTitle": "完善您的个人资料以解锁职位机会，让公司主动联系您！"
+      },
+      "title": "创建您的Blueship账户"
+    },
+    "verifyPhone": {
+      "text": {
+        "authNumber": "验证码",
+        "authNumber-placeholder": "输入验证码",
+        "changePhoneNum": "更换电话号码？",
+        "codeHasSent": "验证码已发送。",
+        "here": "点击这里",
+        "sendCode": "发送验证码",
+        "verify": "验证",
+        "yourPhoneNum": "您的电话号码"
+      },
+      "title": "身份验证"
+    }
+  },
+  "toast": {
+    "action": {
+      "emailCopied": "电子邮件已复制到剪贴板",
+      "jobSaved": "职位已保存"
+    }
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "common": {
+    "active": "Active",
+    "address": "Address",
+    "all": "All",
+    "annoucement": "Anouncement",
+    "back": "Back",
+    "backToHome": "Back to Home",
+    "cancel": "Cancel",
+    "changePassword": "Change Password",
+    "close": "Close",
+    "community": "Community",
+    "contactSupport": "Contact Support",
+    "continue": "Continue",
+    "createPassword": "Create Password",
+    "delete": "Delete",
+    "edit": "Edit",
+    "email": "Email",
+    "email-address": "Email Address",
+    "end-date": "End date",
+    "error": "Error",
+    "event": "Event",
+    "female": "Female",
+    "filter": "Filter",
+    "forum": "Forum",
+    "fullname": "Full Name",
+    "gender": "Gender",
+    "home": "Home",
+    "inactive": "Inactive",
+    "jobNotFoundSubtitle": "Currently we don’t have jobs related to this category",
+    "jobNotFoundTitle": "Oops, no related job found",
+    "jobsAvailable": "Jobs Available",
+    "language": "Language",
+    "location": "Location",
+    "logout": "Logout",
+    "male": "Male",
+    "nationality": "Nationality",
+    "next": "Next",
+    "notFound": "Not Found",
+    "notice": "Notice",
+    "notification": "Notification",
+    "other": "Other",
+    "password": "Password",
+    "phone-number": "Phone Number",
+    "post": "Post",
+    "price": "Price",
+    "profile": "Profile",
+    "real-estate": "Real Estate",
+    "refresh": "Refresh",
+    "reset": "Reset",
+    "results": "Results",
+    "save": "Save",
+    "search": "Search",
+    "select": "Select",
+    "selectLanguage": "Select Language",
+    "selectTopic": "Select topic",
+    "selectYourLanguage": "Select your language to start",
+    "settings": "Settings",
+    "shareContact": "Agree share contact information",
+    "skip": "Skip",
+    "start-date": "Start date",
+    "submit": "Submit",
+    "submitted": "Submitted",
+    "today": "Today",
+    "updated": "Updated",
+    "verify": "Verify",
+    "view-detail": "View Detail",
+    "visa-status": "Visa Status"
+  },
+  "industryList": {
+    "A": "Argriculture",
+    "B": "Mining",
+    "C": "Manufacturing",
+    "D": "Energy supply",
+    "E": "Water and waste management",
+    "F": "Construction",
+    "G": "Retail",
+    "H": "Transport",
+    "I": "Hospitality",
+    "J": "IT and communication",
+    "K": "Finance",
+    "L": "Real estate",
+    "M": "Science and tech",
+    "N": "Business services",
+    "O": "Government services",
+    "P": "Education",
+    "Q": "Healthcare",
+    "R": "Arts and leisure",
+    "S": "Personal services",
+    "T": "Household activities",
+    "U": "International organizations"
+  },
+  "no-data": {
+    "no-info": "No information. You can update anytime",
+    "your-country": "Your Country",
+    "your-name": "Your Name"
+  },
+  "screens": {
+    "CVUpload": {
+      "text": {
+        "CV": "CV",
+        "CVNote": "Maximum file size is 2MB.",
+        "CVPlaceholder": "Upload your CV in PDF",
+        "agreeContactSharing": "I want to share my contact info to connect with employers and enhance job opportunities.",
+        "portfolio": "Portfolio (optional)",
+        "portfolioPlaceholder": "URL",
+        "yourCV": "Your CV"
+      },
+      "title": "Upload your CV to get analyzed and receive job offers."
+    },
+    "aboutCompany": {
+      "about": "About",
+      "recentJobs": "Recent Jobs",
+      "title": "About Company"
+    },
+    "applicationDetail": {
+      "text": {
+        "matchedApplicants": "AI-Recommended",
+        "noApplicants": "No applicants yet",
+        "noApplicantsSubtitle": "Stay tuned or share it to attract more candidates!",
+        "recentApplied": "Recently applied"
+      },
+      "title": "Application Detail"
+    },
+    "appliedCard": {
+      "seeResume": "See Resume",
+      "viewProfile": "See Profile"
+    },
+    "applyJob": {
+      "text": {
+        "aboutTheCompany": "About The Company",
+        "apply": "Apply",
+        "applyNow": "Apply Now",
+        "applyResume": "Apply Resume",
+        "benefits": "Benefits",
+        "experience": "Experience",
+        "jobDescription": "Job Description",
+        "level": "Level",
+        "officeAddress": "Office Address",
+        "requirements": "Requirements",
+        "responsibilities": "Responsibilities",
+        "selectAResume": "Select a resume",
+        "selectAnExistingResume": "Select an existing resume",
+        "similarJobsForYou": "Similar Jobs For You",
+        "skillsRequired": "Skills Required",
+        "successful": "Successful",
+        "successfulText": "You have successfully applied for this job",
+        "uploadAResume": "Upload a resume",
+        "uploadYourResume": "Upload Your Resume",
+        "vacancy": "Vacancy",
+        "viewAppliedJob": "View Applied Job",
+        "viewMoreJobs": "View more jobs from this company"
+      },
+      "title": "Apply For Job"
+    },
+    "companyInfo": {
+      "error": {
+        "businessRegNo": "Business Registration Number is required",
+        "businessRegPhoto": "Business Registration Photo is required",
+        "companyName": "Company name is required",
+        "email": "Email is required",
+        "email-invalid": "Invalid email",
+        "industry": "Industry is required",
+        "location": "Location is required",
+        "phoneNumber": "Phone number is required"
+      },
+      "text": {
+        "addPhoto": "Add Photo",
+        "businessRegNo": "Business Registration Number",
+        "businessRegPhoto": "Business Registration Photo",
+        "companyDescription": "Company Description",
+        "companyDescription-placeholder": "Details company",
+        "companyName": "Company Name",
+        "companyName-placeholder": "Your company name",
+        "companySize": "Company Size",
+        "companyWebsite": "Company Website",
+        "contactEmail": "Contact Email",
+        "industry": "Industry",
+        "location": "Location",
+        "location-placeholder": "Your locations",
+        "phoneNumber": "Phone Number"
+      },
+      "title": "Company Information"
+    },
+    "createJob": {
+      "error": {
+        "appDeadline": "Application deadline is required",
+        "benefits": "Benefits is required",
+        "careerLevel": "Career level is required",
+        "date": "Date must be in YYYY-MM-DD format",
+        "employmentType": "Employment type is required",
+        "industry": "Industry is required",
+        "jobDescription": "Job description is required",
+        "jobLocation": "Job location is required",
+        "jobTitle": "Job title is required",
+        "numOfRecruits": "Number of recruits is required",
+        "requirements": "Requirements is required",
+        "responsibility": "Responsibility is required",
+        "salary": "Salary is required",
+        "skillsCommasBetween": "The value must include commas between words",
+        "skillsRequired": "Skills required is required",
+        "workArrangement": "Work arrangement is required",
+        "yoE": "Years experience is required"
+      },
+      "text": {
+        "appDeadline": "Application Deadline",
+        "appDeadline-placeholder": "YYYY-MM-DD",
+        "benefits": "Benefits",
+        "benefits-placeholder": "Benefits",
+        "careerLevel": "Career Level",
+        "careerLevel-placeholder": "Career Level",
+        "employmentType": "Employment Type",
+        "employmentType-placeholder": "Employment Type",
+        "goToDashboard": "Go to Dashboard",
+        "industry": "Industry",
+        "industry-placeholder": "Industry",
+        "jobDescription": "Job Description",
+        "jobDescription-placeholder": "Job Description",
+        "jobDetails": "Job Details",
+        "jobFailed": "Opps, Failed to Post",
+        "jobFailed-desc": "Please make sure that your internet connection is active and stable, then press “Try Again”",
+        "jobLocation": "Job Location",
+        "jobLocation-placeholder": "Your locations",
+        "jobPosted": "Job Vacancy Posted",
+        "jobPosted-desc": "Now you can see all the applier CV/Resume and invite them to the next step",
+        "jobTitle": "Job Title",
+        "numOfRecruits": "Number of Recruits",
+        "requirements": "Requirements",
+        "requirements-placeholder": "Requirements",
+        "responsibility": "Responsibility",
+        "responsibility-placeholder": "Responsibility",
+        "salary": "Salary",
+        "skillsRequired": "Skills Required",
+        "skillsRequired-placeholder": "Skills Required",
+        "tryAgain": "Try Again",
+        "workArrangement": "Work Arrangement",
+        "workArrangement-placeholder": "Work Arrangement",
+        "yoE": "Years of Experience"
+      },
+      "title": "Create a Job"
+    },
+    "drawer": {
+      "title": "Account Settings"
+    },
+    "employee-profile": {
+      "applied": "Applied",
+      "education": "Education",
+      "experience": "Experience",
+      "job": "Job",
+      "job-info": {
+        "applied": {
+          "title": "Applied Jobs"
+        },
+        "saved": {
+          "title": "Saved Jobs"
+        }
+      },
+      "language": "Language",
+      "modal-change-logo": {
+        "addLogo": "Add Photo",
+        "changeLogo": "Change Photo"
+      },
+      "modal-education": {
+        "degree": "Degree",
+        "editEducation": "Edit Education",
+        "end-date": "End year",
+        "error": {
+          "degree": "Degree is required",
+          "end-date": "End year is required",
+          "endIsAfter": "End year must be after start date",
+          "must4": "Must be exactly 4 digits",
+          "start-date": "Start year is required",
+          "study-field": "Field of study is required",
+          "university": "University is required"
+        },
+        "start-date": "Start year",
+        "study-field": "Field of study",
+        "title": "Add Education",
+        "university": "University"
+      },
+      "modal-employee-info": {
+        "title": "Edit Information"
+      },
+      "modal-experience": {
+        "checkbox": "I am still working in this role",
+        "company-address": "Company Address",
+        "company-name": "Company Name",
+        "editExperience": "Edit Experience",
+        "error": {
+          "company-address": "Company address is required",
+          "company-name": "Company name is required",
+          "end-date": "End date is required",
+          "endIsAfter": "End date must be after start date",
+          "job-position": "Job position is required",
+          "start-date": "Start date is required"
+        },
+        "job-position": "Job Position",
+        "title": "Add Experience"
+      },
+      "modal-language": {
+        "title": "Add Language"
+      },
+      "modal-resume": {
+        "title": "CV"
+      },
+      "modal-skill": {
+        "title": "Add Skill"
+      },
+      "saved": "Saved",
+      "skill": "Skills",
+      "title": "Profile"
+    },
+    "employeeHome": {
+      "text": {
+        "mostRecent": "Most Recent",
+        "recommendation": "AI-Matched Jobs",
+        "specialization": "Specialization"
+      }
+    },
+    "employerProfile": {
+      "text": {
+        "addLogo": "Add Logo",
+        "allVacancies": "All Vacancies",
+        "businessRegNo": "Business Registration Number",
+        "businessRegPhoto": "Business Registration Photo",
+        "companyDescription": "Company Description",
+        "companyName": "Company Name",
+        "companySize": "Company Size",
+        "companyWebsite": "Company Website",
+        "contactEmail": "Contact Email",
+        "editInformation": "Edit Information",
+        "industry": "Industry",
+        "location": "Location",
+        "phoneNumber": "Phone Number"
+      },
+      "title": "Company Profile"
+    },
+    "forgotPassword": {
+      "error": {
+        "emailRequired": "Email is required",
+        "invalidEmail": "Invalid email"
+      },
+      "text": {
+        "emailAddress": "Email Address",
+        "emailPlaceholder": "Please enter your email address.",
+        "here": "here",
+        "introduction": "Enter your email address below, and we'll send you a link to reset your password.",
+        "login": "Login",
+        "rememberedPassword": "Remembered your password?",
+        "sendCode": "Send Code"
+      },
+      "title": "Reset Your Password"
+    },
+    "forum": {
+      "commentInput-placeholder": "Well, I think...",
+      "createPost": "Create post",
+      "editCmt": "Edit comment",
+      "editPost": "Edit post",
+      "greeting": "Good morning!",
+      "maxLength150": "Comment must be no more than 150 characters.",
+      "noPost": "Be the First to Create a Post!",
+      "noPost-desc": "There are no posts yet. Feel free to share your ideas and be the first to create a post here!",
+      "replies": "Replies",
+      "result": "",
+      "search-placeholder": "Search anything with #hashtags ...",
+      "seeTrans": "See translation",
+      "topic-list": {
+        "all": "All topics",
+        "career": "Career",
+        "forum": "Forum",
+        "real-estate": "Real estate"
+      },
+      "viewOrigin": "View original",
+      "viewPost": "View post",
+      "what-new": "What's new?"
+    },
+    "getCode": {
+      "error": {
+        "cordRequired": "Code is required",
+        "invalidCode": "Invalid code"
+      },
+      "text": {
+        "dontReceiveCode": "Don’t receive the code.",
+        "introduction": "Please enter the 4 digits code that has been sent to your email address.",
+        "it": "it.",
+        "resend": "Resend",
+        "verify": "Verify"
+      },
+      "title": "Get Your Code"
+    },
+    "jobCard": {
+      "daysAgo": "days ago",
+      "viewDetails": "View Details"
+    },
+    "jobPreference": {
+      "text": {
+        "careerLevel": "Career Level",
+        "careerLevelPlaceholder": "Select Career Level",
+        "industry": "Industry",
+        "industryPlaceholder": "Select Industry",
+        "jobType": "Job Type",
+        "jobTypePlaceholder": "Select Job Type",
+        "preferRegion": "Prefer Region"
+      },
+      "title": "Job Preference"
+    },
+    "languageProfile": {
+      "text": {
+        "language": "Language",
+        "languagePlaceholder": "Select Language"
+      },
+      "title": "Language Profile"
+    },
+    "login": {
+      "error": {
+        "emailRequired": "Email is required",
+        "invalidEmail": "Invalid email",
+        "invalidPassword": "Password must be at least 8 characters",
+        "passwordRequired": "Password is required"
+      },
+      "text": {
+        "emailPlaceholder": "Enter your email",
+        "forgotPassword": "Forgot Password?",
+        "introduction": "Log in to use the job platform for foreigners.",
+        "login": "Login",
+        "loginWithGoogle": "Login with Google",
+        "noAccount": "Don't have an account?",
+        "passwordPlaceholder": "Enter your password",
+        "signup": "Sign Up"
+      },
+      "title": "Welcome to Blueship"
+    },
+    "newPassword": {
+      "error": {
+        "invalidPassword": "invalid password",
+        "passwordRequired": "Password is required"
+      },
+      "text": {
+        "confirmNewPassword": "Confirm New Password",
+        "confirmNewPlaceholder": "Please enter your new password",
+        "here": "here",
+        "introduction": "Enter a new password for your Blueship account.",
+        "login": "Login",
+        "newPassword": "New Password",
+        "newPasswordPlaceholder": "Please enter your new password",
+        "passwordCharacters": "Password must be at least 8 characters long",
+        "rememberedPassword": "Remembered your password?",
+        "resetPassword": "Reset Password"
+      },
+      "title": "Create New Password"
+    },
+    "noticeBoard": {
+      "noAnnouce": "No New Announcements",
+      "noAnnouce-desc": "Please check back soon for any updates or important news!",
+      "noEvent": "No upcoming event",
+      "noEvent-desc": "You have no events right now. Please check back later for updates!",
+      "noNoti": "No notification",
+      "noNoti-desc": "You don't have any notifications at the moment. Check back soon!",
+      "title": "Notice board"
+    },
+    "onboarding": {
+      "selectYourRole": "Select your role"
+    },
+    "password": {
+      "confirmPassword": "Confirm Password",
+      "newPassword": "New Password",
+      "oldPassword": "Old Password"
+    },
+    "personalInformation": {
+      "text": {
+        "address": "Address",
+        "female": "Female",
+        "fullName": "Full Name",
+        "fullNamePlaceholder": "Enter your full name",
+        "gender": "Gender",
+        "male": "Male",
+        "nationality": "Nationality",
+        "nationalityPlaceholder": "Enter your Nationality",
+        "phoneNumber": "Phone Number",
+        "phoneNumberPlaceholder": "Enter your phone number",
+        "yearOfBirth": "Year of Birth"
+      },
+      "title": "Personal Information"
+    },
+    "postCard": {
+      "optionDelete": "Delete",
+      "optionEdit": "Edit"
+    },
+    "professionalProfile": {
+      "text": {
+        "professionalTitle": "Professional Title",
+        "professionalTitlePlaceholder": "e.g UI/UX Designer, Project Manager",
+        "profileSummary": "Profile Summary",
+        "profileSummaryPlaceholder": "Write a short summary about yourself",
+        "visaStatus": "Visa Status",
+        "workExperience": "Work Experience",
+        "workExperiencePlaceholder": "e.g. 2 years"
+      },
+      "title": "Profesional Profile"
+    },
+    "real-estate": {
+      "description": "Description",
+      "error": {
+        "description": "Description is required",
+        "location": "Location is required",
+        "photo": "Photo is required",
+        "price": "Price is required",
+        "title": "Title is required"
+      },
+      "location": "Location",
+      "notFound": "No posts found",
+      "notFound-desc": "We couldn't find anything matching your search.",
+      "photos": "Photos",
+      "price": "Pricing",
+      "searchPost": "Search post",
+      "title": "Post title",
+      "topic-list": {
+        "all": "All topics",
+        "lease": "Lease",
+        "rent": "Rent"
+      }
+    },
+    "registrationSuccess": {
+      "text": {
+        "continue": "Continue",
+        "subTitle": "Unlock job offers by completing your profile and let companies approach you!"
+      },
+      "title": "Your Registration Successful"
+    },
+    "resetPassword": {
+      "text": {
+        "here": "here",
+        "introduction": "Your password has been successfully reset. You can now log in with your new password.",
+        "login": "Login"
+      },
+      "title": "Password Reset Successful"
+    },
+    "roleSelect": {
+      "text": {
+        "employee": "Employee",
+        "employeeSubtitle": "I’m currently looking for a job.",
+        "employer": "Employer",
+        "employerSubtitle": "I’m hiring talents.",
+        "next": "Next"
+      },
+      "title": "Who are you?"
+    },
+    "search": {
+      "clear": "Clear",
+      "filter": {
+        "experienceLevel": "Experience Level",
+        "industry": "Industry",
+        "jobType": "Job Type",
+        "postDate": "Post Date",
+        "salaryRange": "Salary Range"
+      },
+      "recentSearch": "Recent Search",
+      "trySearchingFor": "Try Searching for"
+    },
+    "signup": {
+      "error": {
+        "confirmPasswordRequired": "Confirm password is required",
+        "emailRequired": "Email is required",
+        "invalidEmail": "Invalid email",
+        "minLengthPassword": "Password must be at least 8 characters",
+        "oneLowerCase": "Password must contain at least one lowercase letter",
+        "oneNumber": "Password must contain at least one number",
+        "oneSpecialCharacter": "Password must contain at least one special character",
+        "oneUpperCase": "Password must contain at least one uppercase letter",
+        "passwordNotMatch": "Password does not match",
+        "passwordRequired": "Password is required",
+        "termsRequired": "You must agree to the terms and conditions"
+      },
+      "text": {
+        "agreeToTerms": "I have read and agree to the",
+        "alreadyHaveAnAccount": "Already have an account?",
+        "and": "and",
+        "confirmPassword": "Confirm Password",
+        "confirmPasswordPlaceholder": "Re-enter your password",
+        "continue": "Continue",
+        "createPasswordSubtext": "Enter a new password for your account for email",
+        "createPasswordTitle": "Create Password",
+        "getCodeSubtext": "Verification number has been sent to your email.",
+        "getCodeTitle": "Register Confirmation",
+        "introduction": "Join Blueship to use the job platform for foreigners.",
+        "login": "Login",
+        "privacyPolicy": "Privacy Policy",
+        "registrationSuccessTitle": "Your Registration Successful",
+        "signup": "Sign Up",
+        "signupWithGoogle": "Sign Up with Google",
+        "termsAndConditions": "Terms and Conditions",
+        "unlockedTitle": "Unlock job offers by completing your profile and let companies approach you!"
+      },
+      "title": "Create Your Blueship Account"
+    },
+    "verifyPhone": {
+      "text": {
+        "authNumber": "Authentication number",
+        "authNumber-placeholder": "Enter the verification number",
+        "changePhoneNum": "Change the phone number?",
+        "codeHasSent": "Verification number has been sent.",
+        "here": "here",
+        "sendCode": "Send code",
+        "verify": "Verify",
+        "yourPhoneNum": "Your phone number"
+      },
+      "title": "Identity Verification"
+    }
+  },
+  "toast": {
+    "action": {
+      "emailCopied": "Email copied to clipboard",
+      "jobSaved": "Job saved"
+    }
+  }
+}

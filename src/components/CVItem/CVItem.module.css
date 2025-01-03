@@ -1,0 +1,8 @@
+.cv-item:hover {
+  background-color: #eff5ff;
+  border-color: #75b1ff;
+}
+
+.cv-item:hover .cv-title {
+  color: #2573f1;
+}

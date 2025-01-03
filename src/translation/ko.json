@@ -1,0 +1,616 @@
+{
+  "common": {
+    "active": "진행 중",
+    "address": "주소",
+    "all": "모두",
+    "annoucement": "공지사항",
+    "back": "뒤로",
+    "backToHome": "홈 페이지로 돌아가기",
+    "cancel": "취소",
+    "changePassword": "비밀번호 변경",
+    "close": "닫기",
+    "community": "커뮤니티",
+    "contactSupport": "상담사 연락",
+    "continue": "계속하기",
+    "createPassword": "비밀번호 생성",
+    "delete": "삭제",
+    "edit": "수정",
+    "email": "이메일",
+    "email-address": "이메일 주소",
+    "end-date": "퇴사일",
+    "error": "오류",
+    "event": "이벤트",
+    "female": "여성",
+    "filter": "필터",
+    "forum": "포럼",
+    "fullname": "전체 이름",
+    "gender": "성별",
+    "home": "홈",
+    "inactive": "마감",
+    "jobNotFoundSubtitle": "현재 이 카테고리와 관련된 채용 공고가 없습니다",
+    "jobNotFoundTitle": "죄송합니다, 관련된 채용 공고가 없습니다",
+    "jobsAvailable": "채용 공고",
+    "language": "언어",
+    "location": "위치",
+    "logout": "로그아웃",
+    "male": "남성",
+    "nationality": "국적",
+    "next": "다음",
+    "notFound": "찾을 수 없음",
+    "notice": "공지",
+    "notification": "알림",
+    "other": "다른",
+    "password": "비밀번호",
+    "phone-number": "전화 번호",
+    "post": "잡포스팅",
+    "price": "가격",
+    "profile": "프로필",
+    "real-estate": "부동산",
+    "refresh": "새로고침",
+    "reset": "초기화",
+    "results": "결과",
+    "save": "저장하기",
+    "search": "검색",
+    "select": "선택",
+    "selectLanguage": "언어 선택",
+    "selectTopic": "주제 선택",
+    "selectYourLanguage": "시작하려면 언어를 선택하세요",
+    "settings": "설정",
+    "shareContact": "연락처 공유",
+    "skip": "건너뛰기",
+    "start-date": "입사일",
+    "submit": "제출",
+    "submitted": "제출됨",
+    "today": "오늘",
+    "updated": "업데이트됨",
+    "verify": "인증",
+    "view-detail": "자세히 보기",
+    "visa-status": "비자 상태"
+  },
+  "industryList": {
+    "A": "농업",
+    "B": "광업",
+    "C": "제조업",
+    "D": "에너지 공급",
+    "E": "수자원 및 폐기물 관리",
+    "F": "건설",
+    "G": "도소매업",
+    "H": "운송 및 창고",
+    "I": "숙박 및 음식",
+    "J": "정보통신",
+    "K": "금융 및 보험",
+    "L": "부동산",
+    "M": "과학 및 기술",
+    "N": "사업 서비스",
+    "O": "공공 행정 및 국방",
+    "P": "교육",
+    "Q": "보건 및 복지",
+    "R": "예술 및 여가",
+    "S": "개인 서비스",
+    "T": "가구 활동",
+    "U": "국제 기관"
+  },
+  "no-data": {
+    "no-info": "정보가 없습니다.",
+    "your-country": "국적",
+    "your-name": "이름"
+  },
+  "screens": {
+    "CVUpload": {
+      "text": {
+        "CV": "이력서",
+        "CVNote": "최대 파일 크기는 2MB입니다.",
+        "CVPlaceholder": "PDF 형식의 이력서를 업로드하세요",
+        "agreeContactSharing": "연락처 공유에 동의합니다",
+        "portfolio": "포트폴리오 (선택 사항)",
+        "portfolioPlaceholder": "URL",
+        "yourCV": "이력서"
+      },
+      "title": "이력서를 업로드하여 분석받고 채용 제안을 받으세요."
+    },
+    "aboutCompany": {
+      "about": "회사 소개",
+      "recentJobs": "최근 채용 공고",
+      "title": "회사 소개"
+    },
+    "applicationDetail": {
+      "text": {
+        "matchedApplicants": "AI 추천 지원자",
+        "noApplicants": "아직 지원자가 없습니다",
+        "noApplicantsSubtitle": "지켜보거나 더 많은 후보자를 유치하기 위해 공유하세요!",
+        "recentApplied": "최근 지원"
+      },
+      "title": "지원서 세부 정보"
+    },
+    "appliedCard": {
+      "seeResume": "이력서 보기",
+      "viewProfile": "프로필 보기"
+    },
+    "applyJob": {
+      "text": {
+        "aboutTheCompany": "회사 소개",
+        "apply": "지원하기",
+        "applyNow": "지금 지원하기",
+        "applyResume": "이력서 지원",
+        "benefits": "혜택",
+        "experience": "경력",
+        "jobDescription": "직무 설명",
+        "level": "레벨",
+        "officeAddress": "사무실 주소",
+        "requirements": "요구 사항",
+        "responsibilities": "주요 업무",
+        "selectAResume": "이력서를 선택",
+        "selectAnExistingResume": "기존 이력서를 선택",
+        "similarJobsForYou": "유사한 채용 공고",
+        "skillsRequired": "필요 역량",
+        "successful": "완료되었습니다",
+        "successfulText": "지원이 완료되었습니다.",
+        "uploadAResume": "이력서 업로드",
+        "uploadYourResume": "이력서를 업로드하세요",
+        "vacancy": "공석",
+        "viewAppliedJob": "지원한 포지션 보기",
+        "viewMoreJobs": "이 회사의 더 많은 채용 공고 보기"
+      },
+      "title": "채용 지원"
+    },
+    "companyInfo": {
+      "error": {
+        "businessRegNo": "사업자 등록 번호 내용이 필요합니다",
+        "businessRegPhoto": "사업자 등록증 이미지 내용이 필요합니다",
+        "companyName": "회사명 내용이 필요합니다",
+        "email": "연락 이메일 내용이 필요합니다",
+        "email-invalid": "잘못된 이메일",
+        "industry": "산업 선택이 필요합니다",
+        "location": "위치 내용이 필요합니다",
+        "phoneNumber": "전화번호 내용이 필요합니다"
+      },
+      "text": {
+        "addPhoto": "이미지 추가",
+        "businessRegNo": " 사업자 등록 번호",
+        "businessRegPhoto": " 사업자 등록증 이미지",
+        "companyDescription": "회사 소개",
+        "companyDescription-placeholder": "회사 소개",
+        "companyName": "회사명",
+        "companyName-placeholder": "회사명 입력",
+        "companySize": "회사 규모",
+        "companyWebsite": "회사 웹사이트",
+        "contactEmail": "연락 이메일",
+        "industry": "산업",
+        "location": "위치",
+        "location-placeholder": "위치 입력",
+        "phoneNumber": "전화번호"
+      },
+      "title": "회사 정보"
+    },
+    "createJob": {
+      "error": {
+        "appDeadline": "지원 마감일 내용이 필요합니다",
+        "benefits": "혜택 내용이 필요합니다",
+        "careerLevel": "근무 형태 내용이 필요합니다",
+        "date": "날짜는 YYYY-MM-DD 형식이어야 합니다.",
+        "employmentType": "근무 형태 내용이 필요합니다",
+        "industry": "산업 선택이 필요합니다",
+        "jobDescription": "직무 설명 내용이 필요합니다",
+        "jobLocation": "위치 내용이 필요합니다",
+        "jobTitle": "포지션 내용이 필요합니다",
+        "numOfRecruits": "채용 인원수 내용이 필요합니다",
+        "requirements": "요구 사항 내용이 필요합니다",
+        "responsibility": "주요 업무 내용이 필요합니다",
+        "salary": "연봉 내용이 필요합니다",
+        "skillsCommasBetween": "값은 단어 사이에 쉼표를 포함해야 합니다.",
+        "skillsRequired": "필수 스킬 내용이 필요합니다",
+        "workArrangement": "근무 장소 내용이 필요합니다",
+        "yoE": "경험 내용이 필요합니다"
+      },
+      "text": {
+        "appDeadline": "지원 마감일",
+        "appDeadline-placeholder": "YYYY-MM-DD",
+        "benefits": "혜택",
+        "benefits-placeholder": "내용 작성",
+        "careerLevel": "경력 수준",
+        "careerLevel-placeholder": "경력 수준",
+        "employmentType": "근무 형태",
+        "employmentType-placeholder": "근무 형태",
+        "goToDashboard": "대시보드로 가기",
+        "industry": "산업군",
+        "industry-placeholder": "산업군 선택",
+        "jobDescription": "직무 설명",
+        "jobDescription-placeholder": "채용공고 내용 작성",
+        "jobDetails": "채용공고 내용",
+        "jobFailed": "Opps, 게시하기 실패했습니다",
+        "jobFailed-desc": "인터넷 연결이 활성화되어 있고 안정적인지 확인한 후, '다시 시도하기' 버튼을 눌러 주시기 바랍니다",
+        "jobLocation": "위치",
+        "jobLocation-placeholder": "위치 입력",
+        "jobPosted": "채용공고 게시되었습니다",
+        "jobPosted-desc": "이제 모든 지원자의 이력서와 레쥬메를 검토한 후, 다음 단계로 초대할 수 있습니다.",
+        "jobTitle": "직무 및 직책",
+        "numOfRecruits": "채용 인원수",
+        "requirements": "요구 사항",
+        "requirements-placeholder": "내용 작성",
+        "responsibility": "주요 업무",
+        "responsibility-placeholder": "내용 작성",
+        "salary": "연봉",
+        "skillsRequired": "필수 스킬",
+        "skillsRequired-placeholder": "스킬 추가",
+        "tryAgain": "다시 시도하기",
+        "workArrangement": "근무 장소",
+        "workArrangement-placeholder": "현장",
+        "yoE": "근무 경력"
+      },
+      "title": "채용공고 생성"
+    },
+    "drawer": {
+      "title": "계정 설정"
+    },
+    "employee-profile": {
+      "applied": "지원된 포지션",
+      "education": "학력",
+      "experience": "근무 경험",
+      "job": "개",
+      "job-info": {
+        "applied": {
+          "title": "지원한 잡포스팅"
+        },
+        "saved": {
+          "title": "저장된 포지션"
+        }
+      },
+      "language": "언어 능력",
+      "modal-change-logo": {
+        "addLogo": "사진 추가",
+        "changeLogo": "사진 변경"
+      },
+      "modal-education": {
+        "degree": "학위",
+        "editEducation": "학력 수정",
+        "end-date": "연말",
+        "error": {
+          "degree": "학위 내용이 필요합니다",
+          "end-date": "연말 내용이 필요합니다",
+          "endIsAfter": "종료 연도는 시작 연도 이후여야 합니다",
+          "must4": "정확히 4자리 숫자여야 합니다",
+          "start-date": "연도 시작 내용이 필요합니다",
+          "study-field": "전공 내용이 필요합니다",
+          "university": "대학교 내용이 필요합니다"
+        },
+        "start-date": "연도 시작",
+        "study-field": "전공",
+        "title": "학력 추가",
+        "university": "대학교"
+      },
+      "modal-employee-info": {
+        "title": "정보 수정"
+      },
+      "modal-experience": {
+        "checkbox": "아직 재직하고 있습니다",
+        "company-address": "회사 주소",
+        "company-name": "회사",
+        "editExperience": "경험 수정",
+        "error": {
+          "company-address": "회사 주소 내용이 필요합니다",
+          "company-name": "회사 내용이 필요합니다",
+          "end-date": "퇴사일 내용이 필요합니다",
+          "endIsAfter": "종료일은 시작일 이후여야 합니다",
+          "job-position": "직책 또는 직위 내용이 필요합니다",
+          "start-date": "입사일 내용이 필요합니다"
+        },
+        "job-position": "직책 또는 직위",
+        "title": "경험 추가"
+      },
+      "modal-language": {
+        "title": "내 스킬"
+      },
+      "modal-resume": {
+        "title": "CV"
+      },
+      "modal-skill": {
+        "title": "스킬 추가"
+      },
+      "saved": "저장된 포지션",
+      "skill": "스킬",
+      "title": "프로필"
+    },
+    "employeeHome": {
+      "text": {
+        "mostRecent": "최근 잡포스팅",
+        "recommendation": "AI 맞춤 일자리",
+        "specialization": "카테고리"
+      }
+    },
+    "employerProfile": {
+      "text": {
+        "addLogo": "로고 추가",
+        "allVacancies": "모든 채용공고",
+        "businessRegNo": "사업자등록번호",
+        "businessRegPhoto": "사업자등록증 사진",
+        "companyDescription": "기업 소개",
+        "companyName": "회사 이름",
+        "companySize": "직원수",
+        "companyWebsite": "기업 웹사이트",
+        "contactEmail": "연락 이메일",
+        "editInformation": "정보 수정",
+        "industry": "산업",
+        "location": "위치",
+        "phoneNumber": "전화번호"
+      },
+      "title": "기업 프로필"
+    },
+    "forgotPassword": {
+      "error": {
+        "emailRequired": "이메일은 필수 항목입니다",
+        "invalidEmail": "유효하지 않은 이메일입니다"
+      },
+      "text": {
+        "emailAddress": "이메일 주소",
+        "emailPlaceholder": "이메일 주소 입력",
+        "here": "하기",
+        "introduction": "아래에 이메일 주소를 입력하시면 비밀번호 재설정을 위한 링크를 보내드립니다.",
+        "login": "로그인",
+        "rememberedPassword": "비밀번호가 기억나셨나요?",
+        "sendCode": "재설정 링크 보내기"
+      },
+      "title": "비밀번호 재설정"
+    },
+    "forum": {
+      "commentInput-placeholder": "글쎄, 내 생각에는...",
+      "createPost": "게시물 작성",
+      "editCmt": "댓글 수정",
+      "editPost": "게시물 수정",
+      "greeting": "좋은 아침입니다!",
+      "maxLength150": "댓글은 150자 이하이어야 합니다.",
+      "noPost": "첫 번째 게시물을 만들어 보세요!",
+      "noPost-desc": "아직 게시물이 없습니다. 아이디어를 공유하고 첫 번째 게시물을 만들어 보세요!",
+      "replies": "댓글",
+      "result": "건",
+      "search-placeholder": "#해시태그로 검색하세요",
+      "seeTrans": "번역 보기",
+      "topic-list": {
+        "all": "모든 주제",
+        "career": "커리어",
+        "forum": "포럼",
+        "real-estate": "부동산"
+      },
+      "viewOrigin": "원본보기",
+      "viewPost": "게시물 보기",
+      "what-new": "새로운 소식은 무엇인가요?"
+    },
+    "getCode": {
+      "error": {
+        "cordRequired": "Code is required",
+        "invalidCode": "Invalid code"
+      },
+      "text": {
+        "dontReceiveCode": "코드를 받지 못하셨나요?",
+        "introduction": "이메일 주소로 전송된 4자리 코드를 입력하세요.",
+        "it": "",
+        "resend": " 다시 보내기",
+        "verify": "인증하기"
+      },
+      "title": "인증 코드 받기"
+    },
+    "jobCard": {
+      "daysAgo": "일 전",
+      "viewDetails": "자세히 보기"
+    },
+    "jobPreference": {
+      "text": {
+        "careerLevel": "경력 수준",
+        "careerLevelPlaceholder": "경력 수준을 선택하세요",
+        "industry": "산업",
+        "industryPlaceholder": "산업을 선택하세요",
+        "jobType": "직업 유형",
+        "jobTypePlaceholder": "직업 유형을 선택하세요",
+        "preferRegion": "선호 지역"
+      },
+      "title": "선호 직업"
+    },
+    "languageProfile": {
+      "text": {
+        "language": "언어",
+        "languagePlaceholder": "언어를 선택하세요"
+      },
+      "title": "언어 프로필"
+    },
+    "login": {
+      "error": {
+        "emailRequired": "이메일은 필수 항목입니다",
+        "invalidEmail": "유효하지 않은 이메일입니다",
+        "invalidPassword": "비밀번호는 최소 8자 이상이어야 합니다",
+        "passwordRequired": "비밀번호는 필수 항목입니다"
+      },
+      "text": {
+        "emailPlaceholder": "이메일 주소 입력",
+        "forgotPassword": "비밀번호 찾기",
+        "introduction": "Blueship에 가입하여 외국인 잡플랫폼을 이용해보세요.",
+        "login": "로그인",
+        "loginWithGoogle": "구글로 로그인",
+        "noAccount": "Blueship 계정이 없나요?",
+        "passwordPlaceholder": "비밀번호  입력",
+        "signup": "회원가입"
+      },
+      "title": "Blueship에 오신 것을 환영합니다"
+    },
+    "newPassword": {
+      "error": {
+        "invalidPassword": "유효하지 않은 비밀번호입니다",
+        "passwordRequired": "비밀번호는 필수항목입니다"
+      },
+      "text": {
+        "confirmNewPassword": "새 비밀번호 확인",
+        "confirmNewPlaceholder": "비밀번호 확인",
+        "here": "하기",
+        "introduction": "Blueship 계정 비밀번호를 설정하세요.",
+        "login": "로그인",
+        "newPassword": "새 비밀번호",
+        "newPasswordPlaceholder": "비밀번호 입력",
+        "passwordCharacters": "비밀번호는 8자 이상이어야 합니다.",
+        "rememberedPassword": "비밀번호가 기억나셨나?",
+        "resetPassword": "비밀번호 재설정"
+      },
+      "title": "비밀번호 재설정"
+    },
+    "noticeBoard": {
+      "noAnnouce": "새로운 공지 없음",
+      "noAnnouce-desc": "업데이트나 중요한 뉴스가 있으면 곧 다시 확인해주세요!",
+      "noEvent": "예정된 이벤트 없음",
+      "noEvent-desc": "현재 이벤트가 없습니다. 나중에 업데이트를 확인해주세요!",
+      "noNoti": "알림 없음",
+      "noNoti-desc": "현재 알림이 없습니다. 곧 다시 확인해주세요!",
+      "title": "공지 사항 게시판"
+    },
+    "onboarding": {
+      "selectYourRole": "Select your role"
+    },
+    "password": {
+      "confirmPassword": "새 비밀번호 확인",
+      "newPassword": "새 비밀번호",
+      "oldPassword": "현재 비밀번호"
+    },
+    "personalInformation": {
+      "text": {
+        "address": "주소",
+        "female": "여성",
+        "fullName": "이름",
+        "fullNamePlaceholder": "이름을 입력하세요",
+        "gender": "성별",
+        "male": "남성",
+        "nationality": "국적",
+        "nationalityPlaceholder": "국적을 입력하세요",
+        "phoneNumber": "전화번호",
+        "phoneNumberPlaceholder": "전화번호를 입력하세요",
+        "yearOfBirth": "출생년도"
+      },
+      "title": "개인 정보"
+    },
+    "postCard": {
+      "optionDelete": "삭제",
+      "optionEdit": "수정"
+    },
+    "professionalProfile": {
+      "text": {
+        "professionalTitle": "직업 제목",
+        "professionalTitlePlaceholder": "예: UI/UX 디자이너, 프로젝트 매니저",
+        "profileSummary": "프로필 요약",
+        "profileSummaryPlaceholder": "자신에 대한 간단한 요약을 작성하세요",
+        "visaStatus": "비자 상태",
+        "workExperience": "근무 경험",
+        "workExperiencePlaceholder": "예: 2년"
+      },
+      "title": "전문 프로필"
+    },
+    "real-estate": {
+      "description": "설명",
+      "error": {
+        "description": "설명은 필수입니다",
+        "location": "위치는 필수입니다",
+        "photo": "사진은 필수입니다",
+        "price": "가격은 필수입니다",
+        "title": "제목은 필수입니다"
+      },
+      "location": "위치",
+      "notFound": "게시물이 없습니다",
+      "notFound-desc": "검색한 내용과 일치하는 항목을 찾을 수 없습니다.",
+      "photos": "사진",
+      "price": "가격",
+      "searchPost": "게시물 검색",
+      "title": "게시물 제목",
+      "topic-list": {
+        "all": "모든 주제",
+        "lease": "리스",
+        "rent": "임대"
+      }
+    },
+    "registrationSuccess": {
+      "text": {
+        "continue": "계속하기",
+        "subTitle": "프로필을 완성하여 채용 제안을 받고 회사가 당신을 찾을 수 있도록 해보세요!"
+      },
+      "title": "회원가입이 완료되었습니다"
+    },
+    "resetPassword": {
+      "text": {
+        "here": "하기",
+        "introduction": "비밀번호가 성공적으로 재설정되었습니다. 이제 새 비밀번호로 로그인할 수 있습니다.",
+        "login": "로그인"
+      },
+      "title": "비밀번호 재설정 완료"
+    },
+    "roleSelect": {
+      "text": {
+        "employee": "구직자",
+        "employeeSubtitle": "현재 직장을 찾고 있습니다.",
+        "employer": "고용주",
+        "employerSubtitle": "인재를 채용하고 있습니다.",
+        "next": "다음"
+      },
+      "title": "당신은 누구인가요?"
+    },
+    "search": {
+      "clear": "지우기",
+      "filter": {
+        "experienceLevel": "경력 등급",
+        "industry": "산업",
+        "jobType": "직업 유형",
+        "postDate": "게시일",
+        "salaryRange": "연봉 범위"
+      },
+      "recentSearch": "최근 검색",
+      "trySearchingFor": "검색어를 입력하세요"
+    },
+    "signup": {
+      "error": {
+        "confirmPasswordRequired": "비밀번호 확인은 필수 항목입니다",
+        "emailRequired": "이메일은 필수 항목입니다",
+        "invalidEmail": "유효하지 않은 이메일입니다",
+        "minLengthPassword": "비밀번호는 최소 8자 이상이어야 합니다",
+        "oneLowerCase": "비밀번호에는 최소 하나의 소문자가 포함되어야 합니다",
+        "oneNumber": "비밀번호에는 최소 하나의 숫자가 포함되어야 합니다",
+        "oneSpecialCharacter": "비밀번호에는 최소 하나의 특수 문자가 포함되어야 합니다",
+        "oneUpperCase": "비밀번호에는 최소 하나의 대문자가 포함되어야 합니다",
+        "passwordNotMatch": "비밀번호가 일치하지 않습니다",
+        "passwordRequired": "비밀번호는 필수 항목입니다",
+        "termsRequired": "이용약관에 동의해야 합니다"
+      },
+      "text": {
+        "agreeToTerms": "나는 읽었으며 동의합니다",
+        "alreadyHaveAnAccount": "계정이 있으세요?",
+        "and": "그리고",
+        "confirmPassword": "비밀번호 확인",
+        "confirmPasswordPlaceholder": "비밀번호 확인",
+        "continue": "계속하기",
+        "createPasswordSubtext": "계정의 새 비밀번호를 입력하세요",
+        "createPasswordTitle": "비밀번호 생성",
+        "getCodeSubtext": "인증 번호가 이메일로 전송되었습니다.",
+        "getCodeTitle": "가입 확인",
+        "introduction": "Blueship에 가입하여 외국인 잡플랫폼을 이용해보세요.",
+        "login": "로그인하기",
+        "privacyPolicy": "개인정보처리방침",
+        "registrationSuccessTitle": "회원가입이 완료되었습니다",
+        "signup": "회원가입",
+        "signupWithGoogle": "구글로 가입",
+        "termsAndConditions": "이용약관",
+        "unlockedTitle": "프로필을 완성하여 채용 제안을 받고 회사가 당신을 찾을 수 있도록 해보세요!"
+      },
+      "title": "Blueship 계정 생성하기"
+    },
+    "verifyPhone": {
+      "text": {
+        "authNumber": "인증번호",
+        "authNumber-placeholder": "인증번호 입력",
+        "changePhoneNum": "전화번호 변경?",
+        "codeHasSent": "인증 번호가 전송되었습니다.",
+        "here": "",
+        "sendCode": "인증번호 전송",
+        "verify": "인증하기",
+        "yourPhoneNum": "전화번호"
+      },
+      "title": "본인 인증"
+    }
+  },
+  "toast": {
+    "action": {
+      "emailCopied": "이메일이 클립보드에 복사되었습니다",
+      "jobSaved": "채용 공고가 저장되었습니다"
+    }
+  }
+}
